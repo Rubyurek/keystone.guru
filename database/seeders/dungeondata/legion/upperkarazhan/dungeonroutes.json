@@ -118,14 +118,6 @@
                 "enemies": [
                     8418
                 ]
-            },
-            {
-                "floor_id": null,
-                "color": "#3effff",
-                "lat": null,
-                "lng": null,
-                "index": 8,
-                "enemies": []
             }
         ],
         "enemyraidmarkers": [],
